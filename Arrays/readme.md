@@ -46,7 +46,6 @@ This folder contains my complete study material, notes, and Java implementations
 - Easy  
 - Medium  
 - Hard  
-(Organized for companies like **Amazon, Google, Meta, and Microsoft**)
 
 ---
 
